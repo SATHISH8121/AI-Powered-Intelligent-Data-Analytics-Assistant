@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlite3
+joblib
+openai
+pip freeze > requirements.txt
