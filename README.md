@@ -1,4 +1,47 @@
 # AI-POWERED INTELLIGENT DATA ANALYTICS ASSISTANT
+---
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Flask-Web%20Application-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
+---
+## 📌 Project Information
+
+| Property | Value |
+|----------|-------|
+| Project Type | Machine Learning |
+| Dataset | Titanic Dataset |
+| Programming Language | Python |
+| Framework | Flask |
+| Machine Learning Algorithm | Random Forest |
+| Accuracy | 72.07% |
+| Database | SQLite |
+| Frontend | HTML, CSS |
+| Visualization | Matplotlib |
+---
+## 📸 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## 📊 Charts
+
+![Charts](screenshots/charts.png)
+
+## 🤖 Model Training
+
+![Training](screenshots/train_model.png)
+
+## 🧠 AI Insights
+
+![Insights](screenshots/insights.png)
+
+---
 
 # 🚀 Project Overview
 
